@@ -46,6 +46,35 @@
       background: #00FF99;
       color: black;
     }
+    .lilas-button {
+      border: 2px solid #C678DD;
+      color: #C678DD;
+    }
+    .lilas-button:hover {
+      background: #C678DD;
+      color: black;
+    }
+    .download-button {
+      display: block;
+      background: #C678DD;
+      color: black;
+      padding: 15px;
+      font-size: 18px;
+      font-weight: bold;
+      margin-top: 30px;
+      text-align: center;
+      max-width: 250px;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 8px;
+      border: 3px solid #00FF99;
+      transition: 0.3s;
+    }
+    .download-button:hover {
+      background: #00FF99;
+      color: black;
+      border-color: #C678DD;
+    }
     .image-container {
       margin: 20px 0;
     }
@@ -63,20 +92,21 @@
   
   <div class="button-container">
     <a href="#">Citoyenneté</a>
-    <a href="#">Empouvoirement</a>
+    <a href="#" class="lilas-button">Empouvoirement</a>
     <a href="#">Relations</a>
-    <a href="#">Éthique</a>
+    <a href="#" class="lilas-button">Éthique</a>
     <a href="#">Technologies</a>
-    <a href="#">Autonomie</a>
+    <a href="#" class="lilas-button">Autonomie</a>
     <a href="#">Créativité</a>
-    <a href="#">Communautés</a>
+    <a href="#" class="lilas-button">Communautés</a>
     <a href="#">Savoir</a>
-
   </div>
 
   <div class="image-container">
     <img src="logoC.png" alt="logo">
   </div>
+  
+  <a href="https://github.com/ouaisfieu" class="download-button">Téléchargements</a>
   
 </body>
 </html>
