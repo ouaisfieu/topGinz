@@ -14,14 +14,6 @@ Kit des [Émotions](https://github.com/ouaisfieu/topGinz/blob/main/%C3%89motions
 
 🚀 Installation
 
-Cloner ou télécharger le dépôt :
+1. Télécharger en ZIP.
 
-```
-git clone https://github.com/ouaisfieu/topGinz.git
-```
-
-ou télécharger en ZIP.
-
-Ajouter les fichiers dans Obsidian :
-
-Placer le contenu du kit choisi dans votre vault Obsidian.
+2. Placer le contenu du kit choisi dans votre vault Obsidian.
