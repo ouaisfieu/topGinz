@@ -4,9 +4,9 @@ topGinz est un dépôt regroupant des kits thématiques de fichiers Markdown con
 
 📌 Contenu des kits
 
-Starter Kit Découverte : Introspection et découverte dObsidian.
+Starter Kit Découverte : Introspection et découverte d'Obsidian.
 
-Kit Astrologies : Fichiers sur l'astrologie.
+Kit [Astrologies](https://github.com/ouaisfieu/topGinz/blob/main/Astro.zip) : Fichiers sur l'astrologie.
 
 Kit des Valeurs : Ensembles de valeurs humaines.
 
